@@ -1,0 +1,19 @@
+---ToDo---
+train collision AI better
+
+---Done---
+right view can be toggled simultaniously with car debug and switching
+training object and seperating agents from player
+do something about crashes
+neural network visual debug update
+train faster, without GUI
+fix hidden layer network
+better raycast
+use the last generation again if the new one does not beat the best score
+Controllable within generations
+make start based in checkpoint segment of file
+raycast line debug
+NN not loading correctly
+make master load function
+make more tracks
+system for racing against AI rather than training all the time. just option to start a race with specific conditions, first to the finish
